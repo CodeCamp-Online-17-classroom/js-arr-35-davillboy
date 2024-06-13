@@ -14,3 +14,4 @@ const array = [
 //   { name: "watermelon", birth: "1985-12-01", age: 36 },
 // ]
 ```
+ชัยรัตน์ ทรัพย์สนอง (ตูน)
